@@ -16,3 +16,6 @@ to do that you need to press the green code button
 and then download zip and extract it and 
 and then go to unity hub open and find the extracted folder and your good once you finished making your changes save the project close and upload the changed files to github and edit the readme so i know you edited them
 remember to upload a image of a concept enemy
+[x] #739
+[ ] https://github.com/octo-org/octo-repo/issues/740
+[ ] Add delight to the experience when all tasks are complete :tada:
