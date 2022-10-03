@@ -8,9 +8,7 @@ game
 
 unity version 2021.3.31f 
 
-//currently trying to upload the rest of the files
-
-//dont download the files yet 
+edit this readme by pressing the pencil button and write something here so i know you have access to change stuff
 
 FINALLY I GOT IT WORKING YOU CAN DOWNLOAD THEM NOW 
 to do that you need to press the green code button
