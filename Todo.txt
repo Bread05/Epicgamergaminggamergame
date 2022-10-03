@@ -1,11 +1,11 @@
-[O] make a 3rd person player controller https://youtu.be/4HpC--2iowE
+[ ] make a 3rd person player controller https://youtu.be/4HpC--2iowE
 
-[O] Enemy goblin ghost thing 
+[ ] Enemy goblin ghost thing 
 
-[O] Make game really hard but not hard enough that you uninstall it 
+[ ] Make game really hard but not hard enough that you uninstall it 
 
-[O] Make player model 
+[ ] Make player model 
 
-[O] Enemy model
+[ ] Enemy model
 
-[O] make game look cool
+[ ] make game look cool
