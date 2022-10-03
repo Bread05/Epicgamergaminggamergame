@@ -21,5 +21,5 @@ close and upload the changed files to github and edit the readme so i know you e
 remember to upload a image of a concept enemy
 
                                                            --Changelog--
--v0.0.01 updated packages and a new testing map for testing stuff-  
--how to open map go to assets scenes and open testing map (duh)-
+--v0.0.01 updated packages and a new testing map for testing stuff--  
+ --how to open map go to assets scenes and open testing map (duh)--
