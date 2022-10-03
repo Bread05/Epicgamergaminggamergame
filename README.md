@@ -28,6 +28,8 @@ remember to upload a image of a concept enemy
 
 > how to open map go to assets scenes and open testing map (duh)
 
+![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026579752364028054/unknown.png)
+
 ![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026579393079935086/unknown.png)
 
 github readmes are so cool
