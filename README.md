@@ -32,6 +32,8 @@ next update is probally a psx style player model and maybe sliding or rolling
 your work is to do literally anything you want but please follow this guide
 https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL
 
+------------------------------------------------------------------------------------------------------------
+
 ### v0.0.01 Oct 3 2022
 
 > updated packages and a new testing map for testing stuff
