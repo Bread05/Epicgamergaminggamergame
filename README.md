@@ -8,6 +8,9 @@ game
 
 unity version 2021.3.31f 
 
+alr so it seems like you dont know how to edit it or your busy and 3rd person character controllers are INSANELY HARD TO MAKE
+so im going to put 50 minutes into the skulltown rm2 remake and 30 minutes into this game and alternate between the 2 like 3-4 times a day this was writen on oct 3 btw ill do a update tommorow
+
 edit this readme by pressing the pencil button and write something here so i know you have access to change stuff
 
 FINALLY I GOT IT WORKING YOU CAN DOWNLOAD THEM NOW 
