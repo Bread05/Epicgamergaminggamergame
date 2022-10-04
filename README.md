@@ -22,8 +22,17 @@ close and upload the changed files to github and edit the readme so i know you e
 remember to upload a image of a concept enemy (this was writen oct 2)
 
 # changelog
+### v0.0.02 also Oct 3 2022 but night time 
 
-### v0.0.01
+> 3rd person player controller
+
+![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026717280383537192/unknown.png)
+
+next update is probally a psx style player model and maybe sliding or rolling 
+your work is to do literally anything you want but please follow this guide
+https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL
+
+### v0.0.01 Oct 3 2022
 
 > updated packages and a new testing map for testing stuff
 
