@@ -19,7 +19,7 @@ and then download zip and extract it and
 and then go to unity hub open and find the extracted folder 
 and your good once you finished making your changes save the project 
 close and upload the changed files to github and edit the readme so i know you edited them
-remember to upload a image of a concept enemy
+remember to upload a image of a concept enemy (this was writen oct 2)
 
 # changelog
 
