@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9Agn
 
 ### v0.0.01 Oct 3 2022
 
-> updated packages and a new testing map for testing stuff
+> updated packages and a new testing map for testing stuff 
 
 > how to open map go to assets scenes and open testing map (duh)
 
