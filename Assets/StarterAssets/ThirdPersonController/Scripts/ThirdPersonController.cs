@@ -80,8 +80,8 @@ namespace StarterAssets
         private float _cinemachineTargetPitch;
 
         // player
-        private float _speed;
-        private float _animationBlend;
+        public float _speed;
+        public float _animationBlend;
         private float _targetRotation = 0.0f;
         private float _rotationVelocity;
         private float _verticalVelocity;
@@ -101,12 +101,12 @@ namespace StarterAssets
 #if ENABLE_INPUT_SYSTEM && STARTER_ASSETS_PACKAGES_CHECKED
         private PlayerInput _playerInput;
 #endif
-        private Animator _animator;
+        public Animator _animator;
         private CharacterController _controller;
         private StarterAssetsInputs _input;
         private GameObject _mainCamera;
-
-        private const float _threshold = 0.01f;
+        
+        public const float _threshold = 0.01f;
 
         private bool _hasAnimator;
 
@@ -166,7 +166,7 @@ namespace StarterAssets
             CameraRotation();
         }
 
-        private void AssignAnimationIDs()
+        public void AssignAnimationIDs()
         {
             _animIDSpeed = Animator.StringToHash("Speed");
             _animIDGrounded = Animator.StringToHash("Grounded");
