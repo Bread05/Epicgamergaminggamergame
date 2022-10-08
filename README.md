@@ -22,6 +22,17 @@ close and upload the changed files to github and edit the readme so i know you e
 remember to upload a image of a concept enemy (this was writen oct 2)
 
 # changelog
+
+### v0.0.03 oct 8 
+
+> new model
+
+> animations yay
+
+> a bug that took me 4 days to figure out
+
+![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1028336902358716516/2022-10-08_09-00-30_AdobeExpress.gif)
+
 ### v0.0.02 also Oct 3 2022 but night time 
 
 > 3rd person player controller
