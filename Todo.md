@@ -1,4 +1,4 @@
-- [ ] make a 3rd person player controller https://youtu.be/4HpC--2iowE
+- [x] ~~make a 3rd person player controller~~ Done!
 
 - [ ] Enemy goblin ghost thing 
 
