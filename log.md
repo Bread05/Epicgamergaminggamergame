@@ -1,5 +1,7 @@
 yea i made another log file 
 
+oct better rigged model
+
 oct 4 afternoon i made a better model and i imported him into unity and all he does is jump around and walk while tposing so i should probally animate it now
 
 ![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026964343402811482/unknown.png)
