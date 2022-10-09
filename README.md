@@ -6,6 +6,7 @@ so gamer
 cool game
 game
 
+
 unity version 2021.3.31f 
 
 alr so it seems like you dont know how to edit it or your busy and 3rd person character controllers are INSANELY HARD TO MAKE
@@ -56,3 +57,7 @@ https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9Agn
 ![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026579393079935086/unknown.png)
 
 github readmes are so cool
+
+
+Hey MAX!! This is where i'll share the mediafire link!! 
+EQUIPABLE SWORDS FTW!!!
