@@ -75,3 +75,6 @@ also i bought a cool little gameboy advanced sp clone it was only 44$ apparently
 and somehow ps1 its coming in 2 days you can even load games onto it ill try remaking my old game jam game on it
 
 so it came early a hour ago and this is the best freaking thing ever for some reason it doesnt have nes or snes but i dont care that much sence you can play the only good games on those consoles on the gba ports pokemon fire red is really good btw
+
+
+That is awesome about the gameboy advance clone ! Pokemon FIRE was the JAM! I cannot figure this out for the life of me. I think you and I are going to have to video chat and I will need some of your help. I have thursday and friday off so maybe we would be able to do that. To be honest I've been having a reallly hard time figuring out unity in general, so i've been watching brackeys videos non-stop lol . I was looking at all of the code and everything you already have uploaded, i am beyond impressed. I really want to keep working on this. 
