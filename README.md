@@ -69,7 +69,7 @@ sword for a few hours tonight. I will send you my work tomorow, hope i nail it
 >>>ALRIGHT, I think its going well. still not ready but i'll send you something tom. spent 2 hours on it tonight
 
 so the issue for your bugs when downloading the project was that you are on a slightly older version i download the version and upload the setting changes after you upload your sword stuff dont feel bad that was my fault its probally better anyways sence 2021.3.3 is a beta and 2021.3.1 is lts which basically that means
-it will get updates for like 3 more years 
+it will get updates for like 3 more years and the pink player is from the rendering engine being hdrp not urp but then if it goes to urp the terrain would go pink because it wouldnt know what textures to use so im just gonna fix that when you upload it and continue making the player textures
 
 also i bought a cool little gameboy advanced sp clone it was only 44$ apparently it can play nes snes gba pce games like doom quake and quake 2 game gear 
 and somehow ps1 its coming in 2 days you can even load games onto it ill try remaking my old game jam game on it
