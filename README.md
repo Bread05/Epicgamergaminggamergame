@@ -62,8 +62,8 @@ github readmes are so cool
 Hey MAX!! This is where i'll share the mediafire link!! 
 EQUIPABLE SWORDS FTW!!! 
 i just noticed we hit 50 commits woohoo
-=] Games gonna be so good. 
+ 
 wheres the link :spongebobsadimage:
-https://www.mediafire.com/file/8uty6ljc4we2c17/Epicgamergaminggamergame-main.zip/file ---> there's the link..Slow going on my progress. I am going to figure out the 
-sword for a few hours tonight. I will send you my work tomorow, hope i nail it.
-
+>>>https://www.mediafire.com/file/8uty6ljc4we2c17/Epicgamergaminggamergame-main.zip/file ---> there's the link..Slow going on my progress. I am going to figure out the 
+sword for a few hours tonight. I will send you my work tomorow, hope i nail it
+>>>ALRIGHT, I think its going well. still not ready but i'll send you something tom. spent 2 hours on it tonight
