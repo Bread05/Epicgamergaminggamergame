@@ -73,3 +73,5 @@ it will get updates for like 3 more years and the pink player is from the render
 
 also i bought a cool little gameboy advanced sp clone it was only 44$ apparently it can play nes snes gba pce games like doom quake and quake 2 game gear 
 and somehow ps1 its coming in 2 days you can even load games onto it ill try remaking my old game jam game on it
+
+so it came early a hour ago and this is the best freaking thing ever for some reason it doesnt have nes or snes but i dont care that much sence you can play the only good games on those consoles on the gba ports pokemon fire red is really good btw
