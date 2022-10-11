@@ -67,3 +67,5 @@ wheres the link :spongebobsadimage:
 >>>https://www.mediafire.com/file/8uty6ljc4we2c17/Epicgamergaminggamergame-main.zip/file ---> there's the link..Slow going on my progress. I am going to figure out the 
 sword for a few hours tonight. I will send you my work tomorow, hope i nail it
 >>>ALRIGHT, I think its going well. still not ready but i'll send you something tom. spent 2 hours on it tonight
+
+so the issue for your bugs when downloading the project was that you are on a slightly older version i download the version and upload the setting changes after you upload your sword stuff
