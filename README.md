@@ -68,4 +68,5 @@ wheres the link :spongebobsadimage:
 sword for a few hours tonight. I will send you my work tomorow, hope i nail it
 >>>ALRIGHT, I think its going well. still not ready but i'll send you something tom. spent 2 hours on it tonight
 
-so the issue for your bugs when downloading the project was that you are on a slightly older version i download the version and upload the setting changes after you upload your sword stuff
+so the issue for your bugs when downloading the project was that you are on a slightly older version i download the version and upload the setting changes after you upload your sword stuff dont feel bad that was my fault its probally better anyways sence 2021.3.3 is a beta and 2021.3.1 is lts which basically that means
+it will get updates for like 3 more years
