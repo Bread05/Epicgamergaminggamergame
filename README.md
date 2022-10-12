@@ -85,3 +85,6 @@ Hey Max! Just got home from work, I have to finish my next project in java today
 It shouldnt take me all night but i'll send it to you when finished! hope everything is going well today!
 
 everything is going good i made 3 new buildings in the skulltown remake! so im gonna finish texturing the player and uploading it to the project files today
+
+and for your java class project i think i can just use visual studio to run and compile it by installing the java plugin
+
