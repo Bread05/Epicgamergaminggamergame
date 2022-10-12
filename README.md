@@ -83,3 +83,5 @@ sorry i was basicaly playing pokemon the entire time, yea the tutorial did look 
 
 Hey Max! Just got home from work, I have to finish my next project in java today so i'm going to take a break from this so i can finish my java coding for my java class. If you want i can send the code so you can see the project I am working on. I think to view it you would need to download a "jdk". I personally use NETBEANS. 
 It shouldnt take me all night but i'll send it to you when finished! hope everything is going well today!
+
+everything is going good i made 3 new buildings in the skulltown remake! so im gonna finish texturing the player and uploading it to the project files today
