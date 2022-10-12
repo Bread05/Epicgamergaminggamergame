@@ -78,3 +78,5 @@ so it came early a hour ago and this is the best freaking thing ever for some re
 
 
 That is awesome about the gameboy advance clone ! Pokemon FIRE was the JAM! I cannot figure this out for the life of me. I think you and I are going to have to video chat and I will need some of your help. I have thursday and friday off so maybe we would be able to do that. To be honest I've been having a reallly hard time figuring out unity in general, so i've been watching brackeys videos non-stop lol . I was looking at all of the code and everything you already have uploaded, i am beyond impressed. I really want to keep working on this. 
+
+sorry i was basicaly playing pokemon the entire time, yea the tutorial did look extremely hard even for me you would need to ask my mom about that making a discord server and using it for updates and help making the game and dont worry you can always send download links as much as you want they are very helpful
