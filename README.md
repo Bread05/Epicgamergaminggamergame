@@ -93,3 +93,5 @@ a program that would ask you for a number 1 through 10, after you type in the an
 to the user that their selection was invalid if it is not within the parameters. Even though it's pretty basic there are a couple of cool "tricks" in the code.
 let me know what you think! ------> ( https://www.mediafire.com/file/zoyh5n1vtrn17pb/LabAssignment3_Guido.java/file )   =] oops i had to fix one of the roman numeral 
 values *noob*
+
+nice! im currently instaliing ANOTHER java dev kit ill let you know when im done
