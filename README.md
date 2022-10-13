@@ -97,3 +97,4 @@ values *noob*
 nice! im currently instaliing ANOTHER java dev kit ill let you know when im done 
 oracle was being mean so i used this website https://www.tutorialspoint.com/compile_java_online.php to compile it online works great
 this code translates to c# very easily so i guess that will help you make some of your own code in your unity projects
+ugh stupid github not updating the readme anyways i was working on adding a psx style shader to the game and they are really hard to make and all the free ones suck on the asset store so i think this game is gonna be more ps2 style and less ps1 atleast you can stare at it longer without your eyes hurting
