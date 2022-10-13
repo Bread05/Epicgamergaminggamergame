@@ -94,4 +94,6 @@ to the user that their selection was invalid if it is not within the parameters.
 let me know what you think! ------> ( https://www.mediafire.com/file/zoyh5n1vtrn17pb/LabAssignment3_Guido.java/file )   =] oops i had to fix one of the roman numeral 
 values *noob*
 
-nice! im currently instaliing ANOTHER java dev kit ill let you know when im done
+nice! im currently instaliing ANOTHER java dev kit ill let you know when im done 
+oracle was being mean so i used this website https://www.tutorialspoint.com/compile_java_online.php to compile it online works great
+this code translates to c# very easily so i guess that will help you make some of your own code in your unity projects
