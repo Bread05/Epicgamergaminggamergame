@@ -88,3 +88,7 @@ everything is going good i made 3 new buildings in the skulltown remake! so im g
 
 and for your java class project i think i can just use visual studio to run and compile it by installing the java plugin
 
+WoW that is a ton of progress on skulltown dude , AWESOME, I can't wait to see. I finished my project. It is very very basic but it was the assignment. We had to make
+a program that would ask you for a number 1 through 10, after you type in the answer it tells you what the equivalent roman numeral would be. It has to send a message
+to the user that their selection was invalid if it is not within the parameters. Even though it's pretty basic there are a couple of cool "tricks" in the code.
+let me know what you think! ------>(https://www.mediafire.com/file/smxqlcxok2d6nu1/LabAssignment3_Guido.java/file)     =]
