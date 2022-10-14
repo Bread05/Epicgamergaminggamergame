@@ -100,3 +100,4 @@ this code translates to c# very easily so i guess that will help you make some o
 ugh stupid github not updating the readme anyways i was working on adding a psx style shader to the game and they are really hard to make and all the free ones suck on the asset store so i think this game is gonna be more ps2 style and less ps1 atleast you can stare at it longer without your eyes hurting
 What the heck its not updating the readme! ={ I am excited to put some more time into figuring out unity tomorrow. I think I am just going to try to work out the code 
 a generic character and then apply the code to what you have done. seems like you are really making alot of progress. Very impressive!!
+sounds good!
