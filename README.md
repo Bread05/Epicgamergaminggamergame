@@ -104,3 +104,5 @@ sounds good!
 Hey Max!!! I hope your day is going well so far! i have been working in unity all morning. i found this awesome tutorial that shows you how to attatch weapons 
 with very little coding. you use a tool in unity that is already built in . ANIMATION RIGGING . Im just experimenting now with a watergun but i'm still having 
 trouble with it but i think im finally making progress!! what do you have going on today?
+So i cannot get his hands to attatch to the weapon . I'm just using a watergun so i understand the concept but here is an image of my progress so far. 
+I cant seem to get him to clammp his hands to the gun, im going to keep trying -----> here is the image https://www.mediafire.com/view/wg1ee5pqw1p2ra6/GAME_PROGRESS.png/file
