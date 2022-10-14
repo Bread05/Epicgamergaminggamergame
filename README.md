@@ -101,3 +101,6 @@ ugh stupid github not updating the readme anyways i was working on adding a psx 
 What the heck its not updating the readme! ={ I am excited to put some more time into figuring out unity tomorrow. I think I am just going to try to work out the code 
 a generic character and then apply the code to what you have done. seems like you are really making alot of progress. Very impressive!!
 sounds good!
+Hey Max!!! I hope your day is going well so far! i have been working in unity all morning. i found this awesome tutorial that shows you how to attatch weapons 
+with very little coding. you use a tool in unity that is already built in . ANIMATION RIGGING . Im just experimenting now with a watergun but i'm still having 
+trouble with it but i think im finally making progress!! what do you have going on today?
