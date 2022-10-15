@@ -115,7 +115,7 @@ I work until eight but then im gonna try to mess with it tonight and definitely 
 oki doki
 
 
-holy crappp holyy crap 1.20 UPDATEEEE https://youtu.be/iM9KtHaDcUg
+holy crappp holyy crap 1.20 UPDATEEEE https://youtu.be/iM9KtHaDcUg oh and the update stuff starts at 1:25
 
 i just finished skipping threw everything
 and it was amazing they are adding camals 
