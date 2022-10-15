@@ -116,3 +116,8 @@ oki doki
 
 
 holy crappp holyy crap 1.20 UPDATEEEE https://youtu.be/iM9KtHaDcUg
+
+i just finished skipping threw everything
+and it was amazing they are adding camals 
+
+also https://youtu.be/YLC9rZ2e0Ms
