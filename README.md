@@ -113,3 +113,6 @@ That is awesome cant wait to see it! Maybe we can play skulltown this weekend th
 Brackeys has an animation rigging demo so ill try to do that tonight =]
 I work until eight but then im gonna try to mess with it tonight and definitely when we talk tomorrow! 
 oki doki
+
+
+holy crappp holyy crap 1.20 UPDATEEEE https://youtu.be/iM9KtHaDcUg
