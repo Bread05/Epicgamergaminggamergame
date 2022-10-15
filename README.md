@@ -109,3 +109,6 @@ I cant seem to get him to clammp his hands to the gun, im going to keep trying -
 
 ooooo interesting the way that you make the hands attach to the gun is you need to create a animation where its just the player pretending to hold the gun then make it when you grab a gun or switch to it, it will make the gun visable and play the animation of him holding the gun but you will figure it out and same thing on how to make the animation im so so so close to finishing skull town and then ill do my best to add it to rm2 and will resume progress on the game. good luck!
 i also got one of those glowy zoe costumes for haloween im excited the batterys are supposed to come today because you need 8 freaking aa's to power the thing better then 8 D batterys i guess
+That is awesome cant wait to see it! Maybe we can play skulltown this weekend thats so cool its almost done! and this tool im trying to use in unity allows you to drag and drop the places of the skeleton you want weapons to attatch to . It is supposed to be easy but after three hours of messing with it last night i still am stumped.
+Brackeys has an animation rigging demo so ill try to do that tonight =]
+I work until eight but then im gonna try to mess with it tonight and definitely when we talk tomorrow! 
