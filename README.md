@@ -106,3 +106,6 @@ with very little coding. you use a tool in unity that is already built in . ANIM
 trouble with it but i think im finally making progress!! what do you have going on today?
 So i cannot get his hands to attatch to the weapon . I'm just using a watergun so i understand the concept but here is an image of my progress so far. 
 I cant seem to get him to clammp his hands to the gun, im going to keep trying -----> here is the image https://www.mediafire.com/view/wg1ee5pqw1p2ra6/GAME_PROGRESS.png/file
+
+ooooo interesting the way that you make the hands attach to the gun is you need to create a animation where its just the player pretending to hold the gun then make it when you grab a gun or switch to it, it will make the gun visable and play the animation of him holding the gun but you will figure it out and same thing on how to make the animation im so so so close to finishing skull town and then ill do my best to add it to rm2 and will resume progress on the game. good luck!
+i also got one of those glowy zoe costumes for haloween im excited the batterys are supposed to come today because you need 8 freaking aa's to power the thing better then 8 D batterys i guess
