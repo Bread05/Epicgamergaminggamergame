@@ -112,3 +112,4 @@ i also got one of those glowy zoe costumes for haloween im excited the batterys 
 That is awesome cant wait to see it! Maybe we can play skulltown this weekend thats so cool its almost done! and this tool im trying to use in unity allows you to drag and drop the places of the skeleton you want weapons to attatch to . It is supposed to be easy but after three hours of messing with it last night i still am stumped.
 Brackeys has an animation rigging demo so ill try to do that tonight =]
 I work until eight but then im gonna try to mess with it tonight and definitely when we talk tomorrow! 
+oki doki
