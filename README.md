@@ -121,3 +121,6 @@ i just finished skipping threw everything
 and it was amazing they are adding camals 
 
 also https://youtu.be/YLC9rZ2e0Ms
+
+
+Lol a camel ! WOOHOO are you playing minecraft now ? it does look pretty cool!!
