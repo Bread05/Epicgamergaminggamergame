@@ -126,3 +126,5 @@ also https://youtu.be/YLC9rZ2e0Ms
 Lol a camel ! WOOHOO are you playing minecraft now ? it does look pretty cool!!
 i always play it and i probally will always play it i used to have like 3000 hours on it on ps4 but you cant really track that stuff on pc (i probally have more then 3000 hours on pc)
 https://www.mediafire.com/file/8uty6ljc4we2c17/Epicgamergaminggamergame-main.zip/file ---> HERE YOU GO!
+
+im so lost trying to figure this out i cannot figure it out at all i understand how it works but it just, doesnt.     even.     work.
