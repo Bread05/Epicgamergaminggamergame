@@ -146,3 +146,4 @@ heres my tech tip of the day when you delete things on your computer instead of 
 
 
 long story short i think i just broke my ssd uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh crap 
+wow. im so sorry to hear that buddy. are you certain its broken? how does that even happen? no judgements just wondering what led to that. 
