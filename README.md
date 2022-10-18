@@ -136,3 +136,5 @@ you can restore from one of those old back-ups ?? i
 i have been trying to restore it from the backups for like the entire time now and i havent got any luck yet gonna contact microsoft now
 
 yea ummmm i think i just lost all of my data windows is dumb maybe i can use one of those data recovery tools
+
+Oh NO! i'm so sorry to hear that dude ! I would def give the data recovery a chance.
