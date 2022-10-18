@@ -149,3 +149,8 @@ long story short i think i just broke my ssd uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 wow. im so sorry to hear that buddy. are you certain its broken? how does that even happen? no judgements just wondering what led to that. 
 OMG i got the third person camera set up on a new project that im just using to troubleshoot through the ik constraint. 
 I also was able to get the characters hands to attatch to the weapon! can't wait to show you, hopefully I can figure out how to use it in our game.
+
+![image](https://user-images.githubusercontent.com/104273510/196556314-1feed7c6-00bc-4f4a-8c23-5823c4b57646.png)
+
+im back i guess its not broken as you can see on my task bar my hard drive is failing so i better restart real quick also yayyyyyyyyyy send screen shots of the changes you made to fix it i want to make a sword and other weapon models i need to be more productive
+
