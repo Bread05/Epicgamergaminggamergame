@@ -134,3 +134,5 @@ hehe uhhhh i made a little oopsie i was trying out a new os called ggos its wind
 OH NO! that was 8 hours ago that you sent this, have you made any progress with your operating system?? Maybe you have a back-up somewhere on your hard drive? Perhaps 
 you can restore from one of those old back-ups ?? i
 i have been trying to restore it from the backups for like the entire time now and i havent got any luck yet gonna contact microsoft now
+
+yea ummmm i think i just lost all of my data windows is dumb maybe i can use one of those data recovery tools
