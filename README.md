@@ -143,3 +143,6 @@ heres my tech tip of the day when you delete things on your computer instead of 
 
 
  spooky warnings hopefully i get my personal files i dont really care about the windows files cause im gonna have to get a windows key anyways ![image](https://user-images.githubusercontent.com/104273510/196505653-3d5105c4-a769-45e8-aee8-55844b0b29bc.png)
+
+
+long story short i think i just broke my ssd uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh crap i needed to upgrade it anyways i guess ill sell stuff on the unity asset store since i want a beefy ssd and they aint cheap so i need to do something that will make me lots of moneys 
