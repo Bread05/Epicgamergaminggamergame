@@ -140,3 +140,6 @@ yea ummmm i think i just lost all of my data windows is dumb maybe i can use one
 Oh NO! i'm so sorry to hear that dude ! I would def give the data recovery a chance.
 havent got any luck yet data recovery takes a while and i havent even figured how to do this crap out yet
 heres my tech tip of the day when you delete things on your computer instead of writing all of the bytes to 0 that would take a while so they keep all of the bytes as is and write them as deleted so they are only really deleted until you download something that overrights it i wont be able recover everything but i will be able to recover most of my stuff 
+
+
+ spooky warnings hopefully i get my personal files i dont really care about the windows files cause im gonna have to get a windows key anyways file:///home/max/Pictures/Screenshots/Screenshot%20from%202022-10-18%2010-43-20.png![image](https://user-images.githubusercontent.com/104273510/196505653-3d5105c4-a769-45e8-aee8-55844b0b29bc.png)
