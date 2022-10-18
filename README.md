@@ -131,3 +131,5 @@ im so lost trying to figure this out i cannot figure it out at all i understand 
 LOL! WE HAVE THE TECHNOLOGY! We will eventually figure it out. =p its a fun problem to try to figure out but a tricky one for sure!
 
 hehe uhhhh i made a little oopsie i was trying out a new os called ggos its windows but half of the stuff removed and i kinda sorta lost everything i still have my old folder for all of my data i just dont quite know how to access it i asked the windows support reddit (the average tech support redditor has the average iq of 190)
+OH NO! that was 8 hours ago that you sent this, have you made any progress with your operating system?? Maybe you have a back-up somewhere on your hard drive? Perhaps 
+you can restore from one of those old back-ups ??
