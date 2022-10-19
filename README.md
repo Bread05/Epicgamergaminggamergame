@@ -24,6 +24,19 @@ remember to upload a image of a concept enemy (this was writen oct 2)
 
 # changelog
 
+### v0.0.04 oct 19
+
+
+# yikes its been a while since the last update
+
+> banana 
+
+> inverse kinematics
+
+> even better player model 
+
+## finally a build in the realeases tab (run the game on your computer without unity)
+
 ### v0.0.03 oct 8 
 
 > new model
