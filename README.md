@@ -23,6 +23,18 @@ remember to upload a image of a concept enemy (this was writen oct 2)
 
 # changelog
 
+### v0.0.04 oct 19
+
+11 days with no update aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+> better model
+
+> banana 
+
+> new build
+
+> better graphics
+
 ### v0.0.03 oct 8 
 
 > new model
