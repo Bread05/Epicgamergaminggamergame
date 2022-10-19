@@ -84,4 +84,4 @@ I am trying to right now !! how to i do it, just redownload the zip file, extrac
 NVM ive got it now but it is giving me compile errors when opening, just a moment trying to get to the bottom of it.
 yeah it is not working at all for me. its all broken looking =[ 
 awww i think its cause i removed 2 files from the libary folder because they were over 100mb i heard some versions of unity generate the folder the first time opening it ill try fixing it
-
+hm i dont know we are also editing the readme at the same time i think i removed something you did sorry
