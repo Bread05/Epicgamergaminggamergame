@@ -154,3 +154,8 @@ I also was able to get the characters hands to attatch to the weapon! can't wait
 
 im back i guess its not broken as you can see on my task bar my hard drive is failing so i better restart real quick also yayyyyyyyyyy send screen shots of the changes you made to fix it i want to make a sword and other weapon models i need to be more productive
 
+Glad you got your stuff back!!! Also you have a super creepy desktop background, who is that man? I didnt take screenshots i just sent you a zip folder of my ik 
+constraint experiment. I didn't really do anything different tbh I just followed the instructions and it worked. Maybe there is something wrong with the mesh or 
+skeleton of our character in our game? either way im gonna keep working on it. I'm going to try to attatch the hands to a sword next. Also my anchor points arent 
+perfect but theyre close enough lol! here is the link to the zip folder. Check it out when you can 
+ https://www.mediafire.com/file/w6sulvmklcbjh7z/My_project_zip.zip/file
