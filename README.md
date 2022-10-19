@@ -26,7 +26,6 @@ remember to upload a image of a concept enemy (this was writen oct 2)
 
 ### v0.0.04 oct 19
 
-
 # yikes its been a while since the last update
 
 > banana 
@@ -36,6 +35,12 @@ remember to upload a image of a concept enemy (this was writen oct 2)
 > even better player model 
 
 ## finally a build in the realeases tab (run the game on your computer without unity)
+
+![image](https://user-images.githubusercontent.com/104273510/196743022-1515b34c-25b3-4a7b-a033-118a20c024be.png)
+
+
+------------------------------------------------------------------------------------------------------------
+
 
 ### v0.0.03 oct 8 
 
@@ -49,6 +54,10 @@ remember to upload a image of a concept enemy (this was writen oct 2)
 
 ### v0.0.02 also Oct 3 2022 but night time 
 
+
+------------------------------------------------------------------------------------------------------------
+
+
 > 3rd person player controller
 
 ![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026717280383537192/unknown.png)
@@ -57,7 +66,9 @@ next update is probally a psx style player model and maybe sliding or rolling
 your work is to do literally anything you want but please follow this guide
 https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL
 
+
 ------------------------------------------------------------------------------------------------------------
+
 
 ### v0.0.01 Oct 3 2022
 
@@ -70,6 +81,9 @@ https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9Agn
 ![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026579393079935086/unknown.png)
 
 github readmes are so cool
+
+
+------------------------------------------------------------------------------------------------------------
 
 
 Hey MAX!! This is where i'll share the mediafire link!! 
