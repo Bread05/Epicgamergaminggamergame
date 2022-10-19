@@ -78,3 +78,5 @@ github readmes are so cool
 What happened to the readme lol? Did you delete a bunch of things out of here or something? Anyway, im glad youre back in action! 
 
 i did not realise but did you see the new update
+
+I am trying to right now !! how to i do it, just redownload the zip file, extract, and open it in unity?
