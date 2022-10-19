@@ -159,3 +159,6 @@ constraint experiment. I didn't really do anything different tbh I just followed
 skeleton of our character in our game? either way im gonna keep working on it. I'm going to try to attatch the hands to a sword next. Also my anchor points arent 
 perfect but theyre close enough lol! here is the link to the zip folder. Check it out when you can 
  https://www.mediafire.com/file/w6sulvmklcbjh7z/My_project_zip.zip/file
+ 
+ it is linus tech tips from 4 years ago im gonna download that download the unity install and get to work making some models
+ update you today and i need to update the repo too 
