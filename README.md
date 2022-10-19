@@ -168,3 +168,6 @@ Did you sse how i got the right arm to attatch to the watergun ? pretty cool, ri
 with their prefabbed models and doesnt allow it to work in our game for some reason, idk, going to keep trying tho for sure. Its  very late here so im gonna hit the hay.  but check out my game 
 lol, gonna get the other arm attatched tomorow then try to work on the  rest of the animations. Then i'll probably put the sword into a scene and get animations going 
 for that. If nothing else it is good practice for our game. I am shocked i was able to do the third person camera tho ! so excited i got them both to work.
+
+ugh i finally figured the issue out its cause i didnt have my rig as a child of the game object
+fix it up and upload the project
