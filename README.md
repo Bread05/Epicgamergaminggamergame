@@ -163,3 +163,9 @@ perfect but theyre close enough lol! here is the link to the zip folder. Check i
  it is linus tech tips from 4 years ago im gonna download that download the unity install and get to work making some models
  update you today and i need to update the repo too 
 also we hit 100 commits make that 101
+
+Did you he how i got the right arm to attatch tho ? pretty cool? i think there may be something different with our rigging that allows it to work with their
+prefabbed models and doesnt allow it to work in our game for
+some reason, idk, going to keep trying tho for sure. Its  very late here but check out my game lol, gonna get the other arm attatched tomorow then try to work on the
+rest of the animations. Then i'll probably put the sword into a scene and get animations going for that. If nothing else it is good practice for our game! 
+suprised i was able to do the third person camera tho ! so excited i got them both to work.
