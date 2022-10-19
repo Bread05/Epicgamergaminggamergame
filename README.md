@@ -82,5 +82,6 @@ i did not realise but did you see the new update
 I am trying to right now !! how to i do it, just redownload the zip file, extract, and open it in unity?
 
 NVM ive got it now but it is giving me compile errors when opening, just a moment trying to get to the bottom of it.
-yeah it is not working at all for me. its all broken looking =[
-its stuck waiting for unitys script to execute...idk whats wrong lol im just going to let it run maybe it will open soon? Any suggestions?
+yeah it is not working at all for me. its all broken looking =[ 
+awww i think its cause i removed 2 files from the libary folder because they were over 100mb i heard some versions of unity generate the folder the first time opening it ill try fixing it
+
