@@ -74,3 +74,5 @@ https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9Agn
 ![alt text](https://cdn.discordapp.com/attachments/919670012028002357/1026579393079935086/unknown.png)
 
 github readmes are so cool
+
+What happened to the readme lol? Did you delete a bunch of things out of here or something? Anyway, im glad youre back in action! 
