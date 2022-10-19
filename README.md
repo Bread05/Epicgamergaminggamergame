@@ -82,3 +82,4 @@ i did not realise but did you see the new update
 I am trying to right now !! how to i do it, just redownload the zip file, extract, and open it in unity?
 
 NVM ive got it now but it is giving me compile errors when opening, just a moment trying to get to the bottom of it.
+yeah it is not working at all for me. its all broken looking =[
