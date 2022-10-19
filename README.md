@@ -34,6 +34,8 @@ remember to upload a image of a concept enemy (this was writen oct 2)
 
 > even better player model 
 
+> better graphics 
+
 ## finally a build in the realeases tab (run the game on your computer without unity)
 
 ![image](https://user-images.githubusercontent.com/104273510/196743022-1515b34c-25b3-4a7b-a033-118a20c024be.png)
