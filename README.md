@@ -99,3 +99,5 @@ Do you think it could be a problem with my computer?
 Update = its still stuck on the loading screen. i tried uninstalling and reinstalling. =[[[[
 apparently it is an issue that alot of people have , it is "hanging" on the  SceneView.Repaint "waiting for unity's code 
 in UnityEditor.Coremodule.dll to finish executing.
+After several hours I am happy to report it is working again , i have no idea what i did to fix it, there are several plugins that need resolved and im sure it will
+make it hang again but atleast its working again. How are you doing ? Whats up ??
