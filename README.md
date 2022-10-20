@@ -95,3 +95,5 @@ Anyway, let me know ! talk to you soon !
 yea ill try too 
 So, It loaded up once, and i saw the banana in the characters hand ! that is great ! when i tried to fix unity and restart it, it is stuck on a loading screen.
 Do you think it could be a problem with my computer? 
+
+Update = its still stuck on the loading screen. i tried uninstalling and reinstalling. =[[[[
