@@ -91,3 +91,5 @@ OH! no worries. It did seem like something may have bene missing. Once you updat
 
 I tried it again my dude, it did not work =[ sad face. will you upload again so i can try tomorrow? it says that it cannot open because it is not valid. I AM CONFUSED.
 Anyway, let me know ! talk to you soon !
+
+yea ill try too 
