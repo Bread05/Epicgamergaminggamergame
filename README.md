@@ -93,3 +93,5 @@ I tried it again my dude, it did not work =[ sad face. will you upload again so 
 Anyway, let me know ! talk to you soon !
 
 yea ill try too 
+So, It loaded up once, and i saw the banana in the characters hand ! that is great ! when i tried to fix unity and restart it, it is stuck on a loading screen.
+Do you think it could be a problem with my computer? 
