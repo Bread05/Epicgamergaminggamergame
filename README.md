@@ -88,3 +88,6 @@ hm i dont know we are also editing the readme at the same time i think i removed
 
 
 OH! no worries. It did seem like something may have bene missing. Once you update it again let me know i wanna check it out !
+
+I tried it again my dude, it did not work =[ sad face. will you upload again so i can try tomorrow? it says that it cannot open because it is not valid. I AM CONFUSED.
+Anyway, let me know ! talk to you soon !
