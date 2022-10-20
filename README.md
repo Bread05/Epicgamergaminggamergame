@@ -97,3 +97,5 @@ So, It loaded up once, and i saw the banana in the characters hand ! that is gre
 Do you think it could be a problem with my computer? 
 
 Update = its still stuck on the loading screen. i tried uninstalling and reinstalling. =[[[[
+apparently it is an issue that alot of people have , it is "hanging" on the  SceneView.Repaint "waiting for unity's code 
+in UnityEditor.Coremodule.dll to finish executing.
