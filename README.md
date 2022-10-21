@@ -101,3 +101,5 @@ apparently it is an issue that alot of people have , it is "hanging" on the  Sce
 in UnityEditor.Coremodule.dll to finish executing.
 After several hours I am happy to report it is working again , i have no idea what i did to fix it, there are several plugins that need resolved and im sure it will
 make it hang again but atleast its working again. How are you doing ? Whats up ??
+
+im assuming plugins means packages so go to window and then package manager and at the top change the thing to in project and click on the packages and if they need updates make sure to update them hope that helps im trying to upload the project with the new update and make a unity publishing profile to sell assets it takes a while you need to be pretty qualified im almost finished uploading the project
