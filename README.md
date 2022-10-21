@@ -104,4 +104,4 @@ make it hang again but atleast its working again. How are you doing ? Whats up ?
 
 im assuming plugins means packages so go to window and then package manager and at the top change the thing to in project and click on the packages and if they need updates make sure to update them hope that helps im trying to upload the project with the new update and make a unity publishing profile to sell assets it takes a while you need to be pretty qualified im almost finished uploading the project this thing is so problematic anyways i forgot to say elon musk came out with a tesla bot prototype yesterday and its crazy there was some footage of it working in a factory too i want one 
 
-finally i got the thing to upload im gonna see if it works first
+finally i got the thing to upload im gonna see if it works first yea its broken hold on i need to fix some things first
