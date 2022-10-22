@@ -5,3 +5,6 @@ yea im trying to post the things so i deleted everything and its not working git
 oh yea its called azure devops
 
 im so freaking confused every time i zip the unity project and unzip it it completely breaks and has so many stupid compiler issues this makes no sence
+
+https://www.mediafire.com/file/bstkscj3veldzfn/Epicgamergaminggamergame-main.zip/file
+ok this should work
