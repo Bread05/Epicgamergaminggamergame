@@ -24,4 +24,9 @@ if (Input.GetKeyDown("space"))
         
 and if this is still complicated which i understand just read the unity docs thats how i learned to make my own scripts instead of copying others
 you can also just make a sword model and put it here export it in blender as a obj also 
-                                                                            
+                                                     
+                                                     
+I cant even enter play mode any longer because there are "compile errors" i dont know what caused them but im gonna try to redownload the zip and see if 
+it is something i did or just a problem with the actual zip file. If i can figure that out i am pretty sure my script should be good to go for the 
+weapon switching.
+so i've got all the script written for switching the weapons with the "1" and "2"
