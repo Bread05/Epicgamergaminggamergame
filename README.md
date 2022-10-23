@@ -10,5 +10,5 @@ https://www.mediafire.com/file/bstkscj3veldzfn/Epicgamergaminggamergame-main.zip
 ok this should work
 we're about to find out =} i am downloading it now. sorry I have been at work all day, happy to say i'm home now though  =]
 ah it works !! thats pretty cool, there are still all kinds of things that pop-up that say they need fixed. honestly every time i tried fixing them on the last 
-zip it kept hanging. im nervous to hit fix because i think it will make it hang again. i want to add something to the game tho , what would be something i could 
+iteration it kept hanging. im nervous to hit fix because i think it will make it hang again. i want to add something to the game tho , what would be something i could 
 try to work on, do you have any suggestions ???
