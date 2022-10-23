@@ -8,3 +8,4 @@ im so freaking confused every time i zip the unity project and unzip it it compl
 
 https://www.mediafire.com/file/bstkscj3veldzfn/Epicgamergaminggamergame-main.zip/file
 ok this should work
+we're about to find out =} i am downloading it now. sorry I have been at work all day, happy to say i'm home now though  =]
