@@ -32,3 +32,5 @@ weapon switching.
 so i've got all the script written for switching the weapons with the "1" and "2"
 
 https://bread05.github.io/ hahahaha i got the website to work i made it with javascript and css and a little html the tool that helped me is called reactjs it helps with uploading it to website hosters like github and hostinger maybe ill buy a domain for a few years
+
+Ahh the website looks great!! Awesome stuff! I'm working on my java mid-term now , ill send you some of the code if any of it is cool!  
