@@ -30,3 +30,5 @@ I cant even enter play mode any longer because there are "compile errors" i dont
 it is something i did or just a problem with the actual zip file. If i can figure that out i am pretty sure my script should be good to go for the 
 weapon switching.
 so i've got all the script written for switching the weapons with the "1" and "2"
+
+https://bread05.github.io/ hahahaha i got the website to work i made it with javascript and css and a little html the tool that helped me is called reactjs it helps with uploading it to website hosters like github and hostinger maybe ill buy a domain for a few years
