@@ -34,3 +34,6 @@ so i've got all the script written for switching the weapons with the "1" and "2
 https://bread05.github.io/ hahahaha i got the website to work i made it with javascript and css and a little html the tool that helped me is called reactjs it helps with uploading it to website hosters like github and hostinger maybe ill buy a domain for a few years
 
 Ahh the website looks great!! Awesome stuff! I'm working on my java mid-term now , ill send you some of the code if any of it is cool!  
+Okay so here is the code that we've been using to learn/ practice loops. https://www.mediafire.com/file/iq34rrn7kwvo8jv/BaseballLooping.java/file 
+This has three Loops in it,  one "while" and two "do-while" loops nested in the main loop. It is fairly complex for such a simple idea, but this is one of the most
+important concepts in coding. let me know what you think!
