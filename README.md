@@ -37,3 +37,4 @@ Ahh the website looks great!! Awesome stuff! I'm working on my java mid-term now
 Okay so here is the code that we've been using to learn/ practice loops. https://www.mediafire.com/file/iq34rrn7kwvo8jv/BaseballLooping.java/file 
 This has three Loops in it,  one "while" and two "do-while" loops nested in the main loop. It is fairly complex for such a simple idea, but this is one of the most
 important concepts in coding. let me know what you think!
+oooo i like that its pretty cool 
