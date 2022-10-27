@@ -41,3 +41,4 @@ oooo i like that its pretty cool
 it is etremely cool, i agree ! except it is giving me a really hard time to try to write my own like it. I am going to try to finish my coding assignment so i can send
 it to you, i have to make a program that generates random numbers 1-10 that you need the user to guess. it needs to give you totals of wins and losses too. im about to
 get started, i will let you know in a few hours if i have SUCCESS ! ill keep you posted!
+garentee you its a grammer issue cause you misplaced a _ or capitalization
