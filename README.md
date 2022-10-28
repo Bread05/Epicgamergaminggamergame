@@ -42,3 +42,7 @@ it is etremely cool, i agree ! except it is giving me a really hard time to try 
 it to you, i have to make a program that generates random numbers 1-10 that you need the user to guess. it needs to give you totals of wins and losses too. im about to
 get started, i will let you know in a few hours if i have SUCCESS ! ill keep you posted!
 garentee you its a grammer issue cause you misplaced a _ or capitalization
+Hey goodmorning Max! I've almost got it, i was over complicating the program and adding a bunch of things that didnt need to be there. sometimes its best to just keep 
+it simple. the only probelm here is that I need to make the number truly generate a random number because when you restart the loop the integer stays the same.
+but here it is, check it out, can't beleive this took me nearly three days to figure out. 
+https://www.mediafire.com/file/ebvxdn3iyx2odim/LabAssignment4_attempt2_Guido.java/file
