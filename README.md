@@ -46,3 +46,5 @@ Hey goodmorning Max! I've almost got it, i was over complicating the program and
 it simple. the only probelm here is that I need to make the number truly generate a random number because when you restart the loop the integer stays the same.
 but here it is, check it out, can't beleive this took me nearly three days to figure out. 
 https://www.mediafire.com/file/ebvxdn3iyx2odim/LabAssignment4_attempt2_Guido.java/file
+
+oh no its happening again.... https://itch.io/jam/funni-jam-3 i must complete it this time and you should too try just making a very simple game before the deadline ends do whatever you want
