@@ -50,3 +50,5 @@ https://www.mediafire.com/file/ebvxdn3iyx2odim/LabAssignment4_attempt2_Guido.jav
 oh no its happening again.... https://itch.io/jam/funni-jam-3 i must complete it this time and you should too try just making a very simple game before the deadline ends do whatever you want
 
 Yeah i'd like to give it a shot! what are you going to make this time ?
+
+i have no idea but some sort of wave based game
