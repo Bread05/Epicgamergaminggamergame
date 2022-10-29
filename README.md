@@ -52,9 +52,18 @@ oh no its happening again.... https://itch.io/jam/funni-jam-3 i must complete it
 Yeah i'd like to give it a shot! what are you going to make this time ?
 
 i have no idea but some sort of wave based game
+
+
 oooh very cool do you mean like "waves" of enemies, such as space invaders? Maybe you can expand on "skull"
 I'm on the plane right now =] almost to Arizona! Can't wait to see you, dude! I rented a nice home for You and I to hang out for the day ! We can go do 
 anything you would like but I also was hoping you and I could work on our game a little and do some actual gaming together. So if you can. Please bring your 
 Playstation with you and your computer! We're gonna have a good time ! Can't wait to hang out buddy ! As always no pressure and anything you want to do 
 we can make it happen, and anything that you dont want to do, well, we wont haha. Also i just wrote this simple program for my java mid-term while i was traveling, 
-check it out! . I have a 103 percent so far so hopefully my mid-term goes well.
+check it out! . I have a 103 percent so far so hopefully my mid-term goes well.---> take a peak at my code   --> 
+https://www.mediafire.com/file/htnxe87dh32mous/DisplayText_Guido.java/file -->
+it asks for user to input a phrase , The it ask's how many times you want the program to print the phrase entered, Finally it needs to print every even number plain-
+text and every odd number with an "*" attatched. let me know what you think, also I got the other program to generate random numbers everytime, You need to have the 
+number generated inside the loop for it to generate a new number everytime, I was declaring it as a varaible in the top of the code. so here is that working
+program also ---> Fixed number guessing game https://www.mediafire.com/file/c0cbhh1jlzl5m3p/LabAssignment4_Guido.java/file --> when you exit the program it tells you 
+how many wins losses and plays you got also.
+
