@@ -52,3 +52,9 @@ oh no its happening again.... https://itch.io/jam/funni-jam-3 i must complete it
 Yeah i'd like to give it a shot! what are you going to make this time ?
 
 i have no idea but some sort of wave based game
+oooh very cool do you mean like "waves" of enemies, such as space invaders? Maybe you can expand on "skull"
+I'm on the plane right now =] almost to Arizona! Can't wait to see you, dude! I rented a nice home for You and I to hang out for the day ! We can go do 
+anything you would like but I also was hoping you and I could work on our game a little and do some actual gaming together. So if you can. Please bring your 
+Playstation with you and your computer! We're gonna have a good time ! Can't wait to hang out buddy ! As always no pressure and anything you want to do 
+we can make it happen, and anything that you dont want to do, well, we wont haha. Also i just wrote this simple program for my java mid-term while i was traveling, 
+check it out! . I have a 103 percent so far so hopefully my mid-term goes well.
