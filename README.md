@@ -47,7 +47,7 @@ it simple. the only probelm here is that I need to make the number truly generat
 but here it is, check it out, can't beleive this took me nearly three days to figure out. 
 https://www.mediafire.com/file/ebvxdn3iyx2odim/LabAssignment4_attempt2_Guido.java/file
 
-ok! sounds good i wont be able to bring my playstation and it wouldnt be very fun anyways cause its extremely slow and i would have to update all the games on it as i havent used it in atleast a year and its pretty chonky BUT ill bring my switch and install apex on it so we could play a few rounds im super excited although i dont know if ill be able to bring my computer or switch yet cause i havent asked my mom cause shes probally sleeping right now but its probally a yes cause ill just put everything in my backpack see you tommorow!
+
 
 oh no its happening again.... https://itch.io/jam/funni-jam-3 i must complete it this time and you should too try just making a very simple game before the deadline ends do whatever you want
 
@@ -69,3 +69,6 @@ number generated inside the loop for it to generate a new number everytime, I wa
 program also ---> Fixed number guessing game https://www.mediafire.com/file/c0cbhh1jlzl5m3p/LabAssignment4_Guido.java/file --> when you exit the program it tells you 
 how many wins losses and plays you got also.
 
+ok! sounds good i wont be able to bring my playstation and it wouldnt be very fun anyways cause its extremely slow and i would have to update all the games on it as i havent used it in atleast a year and its pretty chonky BUT ill bring my switch and install apex on it so we could play a few rounds im super excited although i dont know if ill be able to bring my computer or switch yet cause i havent asked my mom cause shes probally sleeping right now but its probally a yes cause ill just put everything in my backpack see you tommorow!
+
+Oh yeah i forgot about your switch for some reason! that would be really fun and it makes way more sense to bring because its portble . I've only ever played mario-kart on switch, i would love  to see a dif game. Secondly I always think its a good idea for you to ask your mom first. That being said,  when she and I made these plans I asked her ahead of time if you could bring your game system so you and I could play together and she told me that sounded ok to her. Still probably a good idea to ask. Either way we'll have lots of fun ! =]
